@@ -1,0 +1,1 @@
+I will show you how to build a very simple calculator application using MVC architecture pattern. This calculator only has addition and subtraction, and you will be able to extend this basic application by adding multiplication and division as exercise yourself! Before we start, I would like to talk briefly what MVC is and why we use it.
